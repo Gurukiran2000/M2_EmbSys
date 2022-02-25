@@ -6,12 +6,20 @@
 
 
  * Safing safety sensor
+
+
+
+
   ![safing_safety_sensor](https://user-images.githubusercontent.com/98873064/155696801-604dd891-15e6-4864-b33e-36fd86d0630b.jpg)
-    
-    It prevents the deployment of airbags unintentionally.
+     It prevents the deployment of airbags unintentionally.
 
 
  * Airbag
+
+
+
+
+
      ![Airbag](https://user-images.githubusercontent.com/98873064/155697000-5b94b16b-dc03-4357-a4c6-7049de281443.jpg)
 
      Airbag is made up of a highly durable polyamide fabric that resists aging.
@@ -23,11 +31,18 @@
     
 
  * Volute Spring
+
+
+
     ![volute_spring](https://user-images.githubusercontent.com/98873064/155697122-fac71c3d-306d-4b2d-a766-79cdcd648a9a.jpg)
 
     This establishes the connection between the rigid steering column and  moving steering wheel. 
 
  * Airbag cables
+
+
+
+
     ![airbag_cables](https://user-images.githubusercontent.com/98873064/155697244-0072ba3d-d21a-4518-9cb3-7692c07a5d78.jpg)
 
     The airbag connectors are bright yellow in colour.
