@@ -1,16 +1,24 @@
 ## Requirements
-  * HL1
+  * HRL1
     To detect sudden decelerations and send electrical signals to activate an initiator.
-    * LL1
+    * LLR1
        This detection is done using certain sensors called Crash Sensors.
-    * LL2  
+    * LLR2  
        Input port or pin of the controller can be used to do this. 
 
 
-  * HL2
+  * HLR2
     To send electric signal inorder to take necessary action that is open the airbags.
-    * LL3
+    * LLR3
        This signal is sent and controlled using certain controller.   
-    * LL4
-       Outport port or pin can be used to do this task     
+    * LLR4
+       Outport port or pin can be used to do this task  
+       
+  * HLR3
+    To determine the severity of the deceleration that is being caused.
+    This is achieved based on the number of sensors that send  high.
+    * LLR6
+        Higher the number of sensors sending high signal more severe is the deceleration.    
+       
+       
      
