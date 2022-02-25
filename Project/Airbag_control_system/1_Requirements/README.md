@@ -16,7 +16,8 @@
        
   * HLR3
     To determine the severity of the deceleration that is being caused.
-    This is achieved based on the number of sensors that send  high.
+    * LLR5
+        This is achieved based on the number of sensors that send  high.
     * LLR6
         Higher the number of sensors sending high signal more severe is the deceleration.    
        
