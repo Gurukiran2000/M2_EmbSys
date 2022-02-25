@@ -4,9 +4,10 @@
 ![carsh_sensor](https://user-images.githubusercontent.com/98873064/155696487-200dd544-2583-4185-9f83-747cab6bf2fe.jpg)
 
 
+ Depending on the airbag system and  number of airbags being installed, the crash sensors are installed either directly in the control unit or as a satellite in vehicle front end or at the side of vehicle.
 
 
-    Depending on the airbag system and  number of airbags being installed, the crash sensors are installed either directly in the control unit or as a satellite in vehicle front end or at the side of vehicle.
+
 
 
  * Safing safety sensor
@@ -16,9 +17,8 @@
 
   ![safing_safety_sensor](https://user-images.githubusercontent.com/98873064/155696801-604dd891-15e6-4864-b33e-36fd86d0630b.jpg)
   
-  
-  
-     It prevents the deployment of airbags unintentionally.
+
+    It prevents the deployment of airbags unintentionally.
 
 
  * Airbag
