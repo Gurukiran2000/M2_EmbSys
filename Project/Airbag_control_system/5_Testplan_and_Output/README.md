@@ -1,6 +1,5 @@
 # Test plan and output
-
-|-------------------|-------------------------|----------------------------|------------------------- |----------------| 
+ 
 | Test case number  |        Condition        |     Expected  Output       |    Actual Output         |       Status   |       
 |-------------------|-------------------------|----------------------------|--------------------------|----------------|
 |    1              |    Push button is off   |Niether LED nor  motors     |  Niether LED nor motors  |  Implemented   |  
