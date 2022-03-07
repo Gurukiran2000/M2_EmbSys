@@ -5,10 +5,10 @@
 |    1              |    Push button is off   |Niether LED nor  motors     |  Niether LED nor motors  |  Implemented   |  
 |                   |                         |should turn ON              | should turn ON           |                |
 |-------------------|-------------------------|----------------------------|--------------------------|----------------|
-|    2              | Push button is on       |   Niether LED nor  motors  |  Niether LED nor motors  | Implemented    |
+|    2              | Push button is ON      |   Niether LED nor  motors  |  Niether LED nor motors  | Implemented    |
 |                   |     should turn ON      |    should turn ON          |   should turn ON         |                |      |                   |                         |                            |                          |                |
 |-------------------|-------------------------|----------------------------|--------------------------|----------------|
-|    3              | Push button is off      | Niether LED nor  motors    |  Niether LED nor motors  |  Implemented   |
+|    3              | Push button is ON      | Niether LED nor  motors    |  Niether LED nor motors  |  Implemented   |
 |                   | Potentiometers read     |should turn ON              |should turn ON            |                |
 |                   |  less than 250          |                            |                          |                |
 |-------------------|-------------------------|----------------------------|--------------------------|----------------|
