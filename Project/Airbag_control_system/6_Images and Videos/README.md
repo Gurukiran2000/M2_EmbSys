@@ -47,7 +47,7 @@
 
 
 * Level 2 Crash is detected
- * Here 2 airbags and LED should turn ON
+  * Here 2 airbags and LED should turn ON
 
 
 
@@ -65,7 +65,7 @@
 
 
 * Level 3 crash is detected
- * Here 3 airbags and LED should turn ON
+  * Here 3 airbags and LED should turn ON
 
 
 
