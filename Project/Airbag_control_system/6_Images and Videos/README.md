@@ -2,6 +2,7 @@
 
 * Vehicle is turned off
 
+
 ![Vehicle_is_OFF](https://user-images.githubusercontent.com/98873064/157160304-d9a069b4-999e-4c6a-b901-2db4eaafed9c.png)
 
 
@@ -18,8 +19,11 @@
 
 * Vehicle is ON and NO crash is detected
 
+![No_crash](https://user-images.githubusercontent.com/98873064/157161077-5aafc069-b990-4073-a9e7-73c45e6f5ecd.png)
 
-![No_crash](https://user-images.githubusercontent.com/98873064/157160376-bd250a21-156b-462f-a5c6-519790c6263c.png)
+
+
+
 
 
 
@@ -37,14 +41,22 @@
 
 
 
+
+
+
+
+
 * Level 2 Crash is detected
  * Here 2 airbags and LED should turn ON
 
 
 
-
-
 ![Level2_crash](https://user-images.githubusercontent.com/98873064/157160599-8f503825-693c-486d-a0f9-6c7357f6db8a.png)
+
+
+
+
+
 
 
 
